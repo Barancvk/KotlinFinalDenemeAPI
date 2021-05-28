@@ -1,27 +1,27 @@
-{
-	"Kategoriler": [
+
+	[
 
 		{
-			"KategoriIsmi": "Lamborghini",
-			"ImageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/1.jpg"
+			"kategoriIsmi": "Lamborghini",
+			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/1.jpg"
 
 
 		},
 		{
-			"KategoriIsmi": "Audi",
-			"ImageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/2.jpg"
+			"kategoriIsmi": "Audi",
+			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/2.jpg"
 
 
 		},
 		{
-			"KategoriIsmi": "Mercedes-Benz",
-			"ImageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/3.jpg"
+			"kategoriIsmi": "Mercedes-Benz",
+			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/3.jpg"
 
 
 		},
 		{
-			"KategoriIsmi": "Opel",
-			"ImageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/4.jpg"
+			"kategoriIsmi": "Opel",
+			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/4.jpg"
 
 
 		}
