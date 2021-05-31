@@ -1,9 +1,10 @@
 
+	
 	[
 
 		{
-			"kategoriIsmi": "Lamborghini",
-			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/1.jpg"
+			"kategoriIsmi": "Volkswagen",
+			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/1.png"
 
 
 		},
@@ -22,6 +23,24 @@
 		{
 			"kategoriIsmi": "Opel",
 			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/4.jpg"
+
+
+		},
+		{
+			"kategoriIsmi": "Renault",
+			"imageUrl": "https://github.com/Barancvk/KotlinFinalDenemeAPI/blob/main/5.jpg"
+
+
+		},
+		{
+			"kategoriIsmi": "Citroën",
+			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/6.jpg"
+
+
+		},
+		{
+			"kategoriIsmi": "BMW",
+			"imageUrl": "https://raw.githubusercontent.com/Barancvk/KotlinFinalDenemeAPI/main/7.jpeg"
 
 
 		}
